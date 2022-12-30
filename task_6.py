@@ -4,7 +4,7 @@
 # print(person.full_name)
 # print(person.age)
 
-# fix the bug
+# Fix the bug 🪲
 
 
 class Person():
