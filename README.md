@@ -5,7 +5,7 @@ To run the project locally you will need to:
 1. Clone the repo to your local, e.g.,
 
 ```bash
-git clone git@github.com:missKatiaPunter/python-coursework-starter.git
+git clone https://github.com/EDGENortheastern/ood-coursework-starter.git
 ```
 
 2. Create a virtual environment
